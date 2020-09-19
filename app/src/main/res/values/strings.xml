@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealmDemo</string>
+
+    <string name="make">作成</string>
+    <string name="delete">削除</string>
+
+    <string name="title">削除してよろしいでしょうか？</string>
+</resources>
